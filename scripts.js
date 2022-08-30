@@ -173,7 +173,8 @@ console.log(newPerson);
 delete newPerson.favDay;
 newPerson.favNumber *= 2
 
-console.log(newPerson);
+console.log(newPerson); 
+
 
 
 
